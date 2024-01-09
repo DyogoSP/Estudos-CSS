@@ -11,7 +11,7 @@ html, body{
     width: 100vw;
 }
 body{
-    background-image: url('pacote-d013/images/fundo-madeira.jpg');
+    background-image: url('/exercicio03/pacote-d013/images/fundo-madeira.jpg');
     background-repeat: no-repeat;
     background-position: top center;
     background-size: cover;
@@ -28,7 +28,7 @@ main{
     transform: translate(-50%, -50%);
     height: 627px;
     width: 311px;
-    background-image: url('pacote-d013/images/frame-iphone.png');
+    background-image: url('/exercicio03/pacote-d013/images/frame-iphone.png');
 }
 #tela{
     position: relative;
